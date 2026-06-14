@@ -31,8 +31,8 @@ www.linkedin.com/in/sesha-duraiarasan67 | sduraiar@gmail.com
 **Tooling:** Ghidra · angr / claripy · DynamoRIO · x86 reverse engineering · dynamic analysis
 
 <p align="center">
-  <img src="assets/dynamorio-instrumentation.png" width="48%" alt="DynamoRIO instrumentation code injecting a command into the malware's dispatcher" />
-  <img src="assets/dynamic-trace-output.png" width="48%" alt="Live API trace showing the triggered malware behavior" />
+  <img src="dynamorio-instrumentation.png" width="48%" alt="DynamoRIO instrumentation code injecting a command into the malware's dispatcher" />
+  <img src="dynamic-trace-output.png" width="48%" alt="Live API trace showing the triggered malware behavior" />
 </p>
 
 ---
