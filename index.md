@@ -34,7 +34,7 @@ www.linkedin.com/in/sesha-duraiarasan67 | sduraiar@gmail.com
   <img src="dynamorio-instrumentation.png" width="48%" alt="DynamoRIO instrumentation code injecting a command into the malware's dispatcher" />
   <img src="dynamic-trace-output.png" width="48%" alt="Live API trace showing the triggered malware behavior" />
   <img src="malware2_03_ang_recovered_commands.png" width="48%" alt="All recovered commands using Angr for the Win33.exe" />
-  <img src="malware1_03_ang_recovered_commands.png" width="48%" alt="All recovered commands using Angr for the mydoom1.exe" />
+  <img src="malware1_03_angr_recovered_commands.png" width="48%" alt="All recovered commands using Angr for the mydoom1.exe" />
   <img src="malware1_04_ghidra_dispatcher.png" width="48%" alt="Dispatcher function in the mydoom1.exe binary file in Ghidra" />
 </p>
 
