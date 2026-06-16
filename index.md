@@ -31,11 +31,11 @@ www.linkedin.com/in/sesha-duraiarasan67 | sduraiar@gmail.com
 **Tooling:** Ghidra · angr / claripy · DynamoRIO · x86 reverse engineering · dynamic analysis
 
 <p align="center">
-  <img src="dynamorio-instrumentation.png" width="48%" alt="DynamoRIO instrumentation code injecting a command into the malware's dispatcher" />
-  <img src="dynamic-trace-output.png" width="48%" alt="Live API trace showing the triggered malware behavior" />
-  <img src="malware2_03_ang_recovered_commands.png" width="48%" alt="All recovered commands using Angr for the Win33.exe" />
-  <img src="malware1_03_angr_recovered_commands.png" width="48%" alt="All recovered commands using Angr for the mydoom1.exe" />
-  <img src="malware1_04_ghidra_dispatcher.png" width="48%" alt="Dispatcher function in the mydoom1.exe binary file in Ghidra" />
+  <img src="/projects/malware-analysis/screenshots/dynamorio-instrumentation.png" width="48%" alt="DynamoRIO instrumentation code injecting a command into the malware's dispatcher" />
+  <img src="/projects/malware-analysis/screenshots/dynamic-trace-output.png" width="48%" alt="Live API trace showing the triggered malware behavior" />
+  <img src="/projects/malware-analysis/screenshots/malware2_03_ang_recovered_commands.png" width="48%" alt="All recovered commands using Angr for the Win33.exe" />
+  <img src="/projects/malware-analysis/screenshots/malware1_03_angr_recovered_commands.png" width="48%" alt="All recovered commands using Angr for the mydoom1.exe" />
+  <img src="/projects/malware-analysis/screenshots/malware1_04_ghidra_dispatcher.png" width="48%" alt="Dispatcher function in the mydoom1.exe binary file in Ghidra" />
 </p>
 
 ---
