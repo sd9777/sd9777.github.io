@@ -12,7 +12,7 @@ www.linkedin.com/in/sesha-duraiarasan67 | sduraiar@gmail.com
 * **The Problem:** Organizations lack visibility into real-world automated attack patterns.
 * **The Action:** Deployed a global network of honeypots to capture live telemetry; analyzed data via ELK Stack to identify top attack sources.
 * **The Impact:** Produced a Formal Threat Analysis Report detailing Indicators of Compromise (IoCs).
-* ** https://drive.google.com/file/d/1XH1uD4HOCa41HAEMvgH19PFhIk-KmoDv/view?pli=1
+* https://drive.google.com/file/d/1XH1uD4HOCa41HAEMvgH19PFhIk-KmoDv/view?pli=1
 
 ### 🖥️ Homelab SOC Setup (Proxmox & pfSense)
 *Virtual Enterprise Network Simulation*
